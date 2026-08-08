@@ -2,7 +2,7 @@
 This is a Library made for Using Character LCDs with STM32F4 MCU in mind. It uses ST HAL.\
 Note that this is based off of Arduino's LiquidCrystal Library.\
 \
-the Example is made for STM32F401RCT6 (Black Pill) but you should be able to either reconfigure the project or copy the important part.\
+the Example is made for STM32F401RCT6 (Black Pill) but you should be able to either reconfigure the project or copy the important part. [Example](https://github.com/seyedalitorabi2004/lcd_driver_STM32F401RCT6_example/)\
 \
 Please note that in order for the delay_us to be usable, you should configure your timer, and the oscillator. this guide can be helpful. [Timer setup](https://controllerstech.com/create-microsecond-delay-stm32/)\
 \
