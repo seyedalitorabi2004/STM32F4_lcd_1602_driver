@@ -8,6 +8,6 @@ Please note that in order for the delay_us to be usable, you should configure yo
 \
 The main Code for the driver is in the lcd_1602_driver directory.\
 Copy the header file to Core/Inc.\
-Copy the c file to Core/Src.\
+Copy the c file to Core/Src.
 
 Feel free to fork / Report issues.
